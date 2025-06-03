@@ -77,6 +77,13 @@ src/
 - Enhanced reporting capabilities
 - Advanced booking system
 
+## 💻 Screenshots
+
+<img src="https://github.com/user-attachments/assets/95819da5-317a-4b8d-a59b-5c110ca24910" width="400" />
+<img src="https://github.com/user-attachments/assets/d8d54600-8b19-474a-b053-aa1bbbd2aa46" width="400" />
+
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
